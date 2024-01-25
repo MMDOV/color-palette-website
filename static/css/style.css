@@ -1,0 +1,21 @@
+body {
+    position: relative;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.image {
+    width: 50rem;
+}
+
+.container {
+    background-color: white;
+}
+
+.row {
+    padding: 1rem 5rem;
+}
+
+.table {
+    width: 50rem;
+}
